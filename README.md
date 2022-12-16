@@ -1,1 +1,2 @@
 # GSM-Based-Home-Automation-using-Arduino
+t was primarily designed for making and receiving calls & text messages, but it has become the whole world after the Smart phone comes into the picture. In this project we are building a home automation system, where one can control the home appliances, using the simple GSM based phone, just by sending SMS through his phone. In this project, no Smart phone is needed, just the old GSM phone will work to switch ON and OFF any home electronic appliances, from anywhere.
